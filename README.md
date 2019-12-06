@@ -21,3 +21,7 @@ Google Translate (accessed 2019-12-06):
 Ruan van Mazijk, Jonathan Drake & Samantha McCarren:
 
 > Closely related to _T. ustulata_ (L.) C.B. Clarke. The reduced inflorescence, which is 1 terminal ear-shaped/wheat-shaped panicle, and mostly the strongly broadened and broadly white-margined bracts, sufficiently distinguishes _T. scariosa_, even if more mature specimens should yield no further difference in the flowering habit/ratio/conditions.
+
+## _Tetraria scariosa_ Levyns sp. nov. ms.
+
+TODO
