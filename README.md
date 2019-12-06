@@ -4,6 +4,8 @@ The curious and confusing taxonomic issue of _Tetraria scariosa_ Kük. and _Tetr
 
 ## _Tetraria scariosa_ Kük.
 
+(Tony Verboom doubts the status of _T. scariosa_ as separate-enough from _T. ustulata_.)
+
 From Kükenthal. 1931. pp. 190--191 (in _Repertorium specierum novarum regni vegetabilis_ - Fascicle 29):
 
 > 100. **Tetraria scariosa** Kükenthal, spec. nova. Rhizoma breve. Culmus mediocriter validus 25---35 cm altus teres nodis 2 distantibus foliigeris instructus basi incrassatus. Folia basalia culmo breviora rígida perangusta canaliculiata, vagimae atrocastaneae nitidae valde reticulatim fissae. Folia culmea brevia vaginis longis atrobrunneis apicem versus subampliatis postice reticulatim fissis. Panicula spiriformis densa oblonga 3---4 cm longa. Spicae 4---5 contiguae bracteis vaginaeformibus basi dilatata plurinervosa atrobrunnea marginibus late scariosis apice in aristam longam pungentem excurrentes. Squamae ferrugineae marginibus ciliatae. Flores juveniles nondum evoluti.
@@ -24,7 +26,7 @@ Ruan van Mazijk, Jonathan Drake & Samantha McCarren:
 
 ## _Tetraria scariosa_ Levyns sp. nov. ms.
 
-Levyns has 4--5 specimens (from the Palmiet River Mouth and Rooi Els) of what she called (using an unpublished manuscript name, it seems) _T. scariosa_, but these are certainly not members of the reticulate-sheathed _Tetraria_ s.s. as we know today.
+Levyns has 4--5 specimens (from the Palmiet River Mouth and Rooi Els) of what she called (using an unpublished manuscript name, it seems) _T. scariosa_, but these are certainly not members of the reticulate-sheathed _Tetraria_ s.s. as we know today. Her taxa is, thus, not a valid name (being preceded by Kükenthal's use of the name). Perhaps the epithet might be valid?
 
 Tammy L. Elliott doesn't think they are members of _Schoenus_ either, despite the single terminal inflorescences and membranaceous bracts (without reticulate-sheaths), based on spikelet morphology. So if it's not a member of the 2 largest Cape schoenoid sedge genera (_Tetraria_ and _Schoenus_), then what is it?
 
