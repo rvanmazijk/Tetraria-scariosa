@@ -24,4 +24,8 @@ Ruan van Mazijk, Jonathan Drake & Samantha McCarren:
 
 ## _Tetraria scariosa_ Levyns sp. nov. ms.
 
-TODO
+Levyns has 4--5 specimens (from the Palmiet River Mouth and Rooi Els) of what she called (using an unpublished manuscript name, it seems) _T. scariosa_, but these are certainly not members of the reticulate-sheathed _Tetraria_ s.s. as we know today.
+
+Tammy L. Elliott doesn't think they are members of _Schoenus_ either, despite the single terminal inflorescences and membranaceous bracts (without reticulate-sheaths), based on spikelet morphology. So if it's not a member of the 2 largest Cape schoenoid sedge genera (_Tetraria_ and _Schoenus_), then what is it?
+
+Sequence data and more careful study is needed.
